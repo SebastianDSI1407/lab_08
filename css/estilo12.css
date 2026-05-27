@@ -1,0 +1,45 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 20px;
+}
+
+.border-top{
+    border-top: 3px solid blue;
+}
+
+.border-bottom{
+    border-bottom: 3px solid red;
+}
+
+.margin{
+    margin: 30px;
+    background-color: black;
+    color: white;
+}
+
+.padding{
+    padding: 20px;
+    background-color: lightblue;
+}
+
+.vertical-align{
+    vertical-align: baseline;
+    color: blue;
+}
+
+.text-indent{
+    text-indent: 50px;
+}
+
+.text-wrap{
+    width: 250px;
+    border: 1px solid black;
+
+    text-wrap: wrap;
+}
+
+.text-stroke{
+    font-size: 30px;
+    color: white;
+    -webkit-text-stroke: 1px black;
+}

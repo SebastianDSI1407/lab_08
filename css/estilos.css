@@ -1,0 +1,27 @@
+@font-face {
+    font-family: fuente_pizza;
+    src: url(../font/Pizza.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: fuente_pigeon;
+    src: url(../font/pigeon/PigeonBold_PERSONAL.ttf) format('truetype');
+}
+
+.fleur-de-leah-regular {
+  font-family: "Fleur De Leah", cursive;
+  font-weight: 400px;
+  font-style: normal;
+}
+
+#apartado_1 {
+    font-family: fuente_pizza;
+    font-size: 38px;
+    color: blue;
+}
+
+.pigeon {
+    font-family: fuente_pigeon;
+    text-align: center;
+    color: #00ff15;
+}
